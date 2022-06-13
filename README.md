@@ -13,6 +13,8 @@
  * Micro SD card (at least 8 GB)
  * Micro Usb cable to power Pi
  * Internet connection
+ * USB adapter and cable(if you don't SSH)
+ * HDMI(if you don't SSH)
  
  
  ## DESCRIPTION 
