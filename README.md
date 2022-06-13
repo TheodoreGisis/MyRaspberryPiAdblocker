@@ -17,7 +17,7 @@
  
  ## DESCRIPTION 
  
-  ## 1.1 INSTALL OS  
+  ## 1.1 INSTALL Rasbperry's OS  
   Once you have all the components you need, the next step is to install Raspberry Pi's OS.
   * Insert a microSD card / reader into your computer
   * Download and install [Raspberry Pi Imager](https://www.raspberrypi.com/software/) 
