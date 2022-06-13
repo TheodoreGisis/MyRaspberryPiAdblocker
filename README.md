@@ -9,10 +9,12 @@
  
  ## REQUIREMENTS
  
- * Raspberry Pi. 
- * Micro SD card (at least 8 GB ).
+ * Raspberry Pi
+ * Micro SD card (at least 8 GB)
  * Micro Usb cable to power Pi
- * Internet connection.
+ * Internet connection
  
  
  ## DESCRIPTION 
+ 
+ ###### 1
