@@ -17,6 +17,4 @@
  
  ## DESCRIPTION 
  
-1 INSTALL OS
-
- ASDA
+ ## 1.1 INSTALL OS  
