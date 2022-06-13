@@ -6,3 +6,5 @@
  Pi-hole is a network-level advertisement and Internet tracker blocking application for Linux which acts as a DNS sinkhole intended for use on a private network. It is designed for low-power embedded devices with network capability, focusing on the Raspberry Pi as its 'reference' hardware platform.
  
  In my case i choose to work with Raspberry pi zero which cost about 10$. 
+ 
+ ## DESCRIPTION 
