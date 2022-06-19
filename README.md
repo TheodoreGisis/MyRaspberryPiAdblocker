@@ -28,10 +28,10 @@
   * Finally clik "Write"
 
   ## 1.2 UPDATE-UPGRADE AND INSTALL PI-HOLE
-  -After installing OS, next is to update and upgrade Raspberry
+  After installing OS, next is to update and upgrade Raspberry
   
        sudo apt update && sudo apt upgrade -y
 
-  -Accept the terms and after install pi-hole
+  Accept the terms and after install pi-hole
   
        curl -sSL https://install.pi-hole.net | bash
