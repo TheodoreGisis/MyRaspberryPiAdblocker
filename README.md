@@ -26,3 +26,5 @@
   * Select "Choose OS" and from the menu select "Raspberry Pi OS"
   * Click "Choose SD card" 
   * Finally clik "Write"
+
+  ## 1.2 UPDATE UPGRADE AND INSTALL PI-HOLE.
