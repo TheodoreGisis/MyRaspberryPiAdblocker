@@ -29,4 +29,5 @@
 
   ## 1.2 UPDATE-UPGRADE AND INSTALL PI-HOLE
   After install OS next is to update and upgrade Raspberry
+  
        sudo apt update && sudo apt upgrade -y
