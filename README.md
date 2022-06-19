@@ -35,6 +35,6 @@
     
   
   <p align="center">
-  <img width="430" height="470" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Putty.png" >
+  <img width="430" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Putty.png" >
   </p>
     
