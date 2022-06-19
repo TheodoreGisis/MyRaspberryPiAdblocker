@@ -42,5 +42,8 @@
   
   
   
-   * [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
+   * Update and upgrade the system 
+       sudo apt update && sudo apt upgrade -y
+   * Install Pi-hole 
+        curl -sSL https://install.pi-hole.net | bash
 
