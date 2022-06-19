@@ -30,13 +30,13 @@
   ## 1.2 UPDATE-UPGRADE AND INSTALL PI-HOLE
   * Connect to the raspberry over SSH using Putty
     
-    1. [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
-    2. Via PuTTY enter the hostname as raspberrypi.local (on some networks, this is just raspberrypi without the .local) and then click Open
+    * [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
+    * Via PuTTY enter the hostname as raspberrypi.local (on some networks, this is just raspberrypi without the .local) and then click Open
  <p align="center">
  <img width="430" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Putty.png" >
  </p>
   
   
   
-    3. [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
+    * [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
 
