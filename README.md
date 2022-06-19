@@ -33,9 +33,8 @@
     1. [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
     2. Via PuTTY enter the hostname as raspberrypi.local (on some networks, this is just raspberrypi without the .local) and then click Open
     
-    <img
-  src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Putty.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 50px">
+  
+  <p align="center">
+  <img width="430" height="470" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Putty.png" >
+  </p>
     
