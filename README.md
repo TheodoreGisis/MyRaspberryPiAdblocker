@@ -31,4 +31,5 @@
   * Connect to the raspberry over SSH using Putty
     
     1. [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
+    2. Via PuTTY enter the hostname as raspberrypi.local (on some networks, this is just raspberrypi without the .local) and then click Open
     
