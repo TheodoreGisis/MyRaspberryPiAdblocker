@@ -36,5 +36,5 @@
   src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Putty.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 100 auto; max-width: 150px;r">
+  style="display: inline-block; margin: 100 ; max-width: 150px;">
     
