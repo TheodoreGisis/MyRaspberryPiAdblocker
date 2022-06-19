@@ -32,6 +32,7 @@
     
     1. [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
     2. Via PuTTY enter the hostname as raspberrypi.local (on some networks, this is just raspberrypi without the .local) and then click Open
+    
     <img
   src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Putty.png"
   alt="Alt text"
