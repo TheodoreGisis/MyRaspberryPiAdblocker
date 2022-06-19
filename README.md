@@ -32,4 +32,9 @@
     
     1. [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
     2. Via PuTTY enter the hostname as raspberrypi.local (on some networks, this is just raspberrypi without the .local) and then click Open
+    <img
+  src="https://github.com/TheodoreGisis/My_Automatic_Watering_System/blob/main/WateringSystem.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
     
