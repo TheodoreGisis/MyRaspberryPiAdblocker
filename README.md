@@ -30,5 +30,5 @@
   ## 1.2 UPDATE-UPGRADE AND INSTALL PI-HOLE
   * Connect to the raspberry over SSH using Putty
     
-    1. [Download,install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
+    1. [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
     
