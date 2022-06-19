@@ -44,7 +44,7 @@
   
    * Update and upgrade the system 
    
-        sudo apt update && sudo apt upgrade -y
+         sudo apt update && sudo apt upgrade -y
        
    * Install Pi-hole 
    
