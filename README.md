@@ -38,5 +38,5 @@
   <img width="430" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Putty.png" >
   </p>
   
-  3. [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
+    3. [Download-install](https://www.chiark.greenend.org.uk/~sgtatham/putty/) and open Putty
 
