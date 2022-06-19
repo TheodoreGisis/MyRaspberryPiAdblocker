@@ -37,6 +37,7 @@
   <p align="center">
   <img width="430" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Putty.png" >
   </p>
+  
     3.Enter your username and password
     4.     
     
