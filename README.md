@@ -82,3 +82,4 @@
 
 
  ## 1.3 SETTING NETWORK CONNECTIONS FOR PI-HOLE
+Pi-hole is now successfully installed. It is now necessary for you to point your devices to this DNS server. The first way of doing this is by configuring each device  to use your newly created Pi-hole DNS server. The second option is to configure your router to use your Pi-hole DNS server by default, which is my preferred method. Configuring the system this way forces all devices to automatically use this DNS server, which means any device connected to your router will automatically be using Pi-hole!
