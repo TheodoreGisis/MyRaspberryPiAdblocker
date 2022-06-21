@@ -54,4 +54,9 @@
     <p align="center">
     <img width="560" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/DNS.jpg" >
     </p>
+    
+    
+   * Pi-hole will prompt you with four lists that you can subscribe to that will automatically block ads. Since ad blocking is Pi-hole’s main attraction, it is              suggested that you subscribe to all the default lists. However, if you’d rather not use these lists, you can add or remove them after Pi-hole has been installed
+
+
 
