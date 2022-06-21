@@ -49,4 +49,6 @@
    * Install Pi-hole 
    
          curl -sSL https://install.pi-hole.net | bash
+         
+   * During the installation, pi-hole will ask you to configure different options.The first step is to configure your upstream DNS provider(i use GOOGLE).
 
