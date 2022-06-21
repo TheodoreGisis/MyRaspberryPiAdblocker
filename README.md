@@ -51,4 +51,7 @@
          curl -sSL https://install.pi-hole.net | bash
          
    * During the installation, pi-hole will ask you to configure different options.The first step is to configure your upstream DNS provider(i use GOOGLE).
+    <p align="center">
+    <img width="430" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/DNS.jpg" >
+    </p>
 
