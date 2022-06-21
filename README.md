@@ -71,3 +71,7 @@
    <p align="center">
    <img width="550" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Static.jpg" >
    </p>
+   
+   * After that step, just press ok in all recomended settings that pi-hole will ask
+   
+   * At the final step you will receive your password to log in to the account.To navigate into pi-hole's site just type to the browser "YOUR_RASBPERRy_PI_STATIC_IP_ADDRES"/admin/inde.php
