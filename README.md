@@ -60,7 +60,7 @@
     
     
    <p align="center">
-   <img width="560" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/BLOCK-ADS.jpg" >
+   <img width="500" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/BLOCK-ADS.jpg" >
    </p>
 
 
