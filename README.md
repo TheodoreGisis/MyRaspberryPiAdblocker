@@ -79,3 +79,6 @@
    <p align="center">
    <img width="550" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/pi-hole-site.jpg" >
    </p>
+
+
+ ## 1.3 SETTING NETWORK CONNECTIONS FOR PI-HOLE
