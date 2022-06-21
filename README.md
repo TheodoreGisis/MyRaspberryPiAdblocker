@@ -63,4 +63,6 @@
    <img width="550" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/BLOCK-ADS.jpg" >
    </p>
 
+   * In the next configuration pi-hole will ask you to block ads on ipv4 and ipv6.Just press "OK" 
+   * s
 
