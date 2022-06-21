@@ -67,3 +67,7 @@
    
    * The following screen will show you what your static IP is currently set as. Your Raspberry Pie was either configured with a static IP address (if you did this prior to starting the tutorial) or was given a dynamic IP address from DHCP. At this step, you can set this address to be your static IP address. If you aren’t happy with the selection, press No. If you would like to use the IP address shown, press yes
 
+
+   <p align="center">
+   <img width="550" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/Static.jpg" >
+   </p>
