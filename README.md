@@ -2,7 +2,7 @@
 
 ## GENERAL
  <p align="center">
- <img width="430" height="430" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/general-pi-hole.png" >
+ <img width="430" height="550" src="https://github.com/TheodoreGisis/MyRaspberryPiAdblocker/blob/main/pihole/general-pi-hole.png" >
  </p>
 
 
